@@ -1,2 +1,3 @@
  MIPS Coursework
- ISA porgramming: tedious yet fun!
+ 
+ ISA programming: tedious yet fun!
